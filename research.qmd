@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+My research focuses on decision-making under uncertainty, with applications to cyber risk and resilient cyber systems. I study how risks evolve over time, how agents respond to incentives, and how optimal or adaptive decisions can be made when models are complex, partially observed, or uncertain. My work draws on stochastic control, reinforcement learning, point processes, contract theory, and backward stochastic differential equations.
+
+## Research areas
+
+### Area 1: Stochastic control for risk, incentives, and resilience
+
+This area focuses on model-based approaches to dynamic decision-making under uncertainty. I study controlled stochastic systems arising in cyber and operational risk, including systems with jumps, self-exciting event dynamics, strategic behavior, and prevention effort. My work uses stochastic control, Hamilton-Jacobi-Bellman equations, contract theory, point processes, and BSDE-based methods to characterize optimal policies, risk-sharing mechanisms, and resilience strategies.
+
+### Area 2: Reinforcement learning for complex stochastic systems
+
+This area focuses on adaptive and computational methods for decision-making when system dynamics are unknown, high-dimensional, or difficult to solve analytically. I am interested in reinforcement learning methods for continuous-time stochastic systems, including controlled diffusion and jump processes, partially observed models, and Markovian approximations of non-Markovian dynamics. A central goal is to develop learning-based methods that complement stochastic control theory and enable tractable decision-making in complex risk environments.
+
+## Current projects
+
+### Stochastic control of Markovianized Hawkes diffusions
+
+This project studies controlled systems whose jump behavior follows Hawkes-type self-exciting dynamics. A central goal is to convert non-Markovian Hawkes dynamics into a finite-dimensional Markov state representation, making it possible to formulate controlled Hawkes-diffusion models and derive the associated dynamic programming equations. I am also interested in approximate solution methods for these control problems, including continuous-time reinforcement learning approaches.
+
+### Principal-agent contracts for risk prevention and optimal switching
+
+This project studies a continuous-time principal-agent model in which an agent can exert costly prevention effort to reduce the frequency of random losses. The model includes compound Poisson losses, insurance premia, and a threshold at which the system switches to a first-best benchmark regime. The goal is to characterize optimal contracts and prevention effort using tools from contract theory, stochastic control, and Hamilton-Jacobi-Bellman equations.

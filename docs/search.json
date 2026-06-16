@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "INDENG 241 — University of California, Berkeley, Fall 2024, 2025\nINDENG 172 — University of California, Berkeley, Spring 2025\nINDENG 166 — University of California, Berkeley, Spring 2026"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-graduate-student-instructor",
+    "href": "teaching.html#teaching-assistant-graduate-student-instructor",
+    "title": "Teaching",
+    "section": "",
+    "text": "INDENG 241 — University of California, Berkeley, Fall 2024, 2025\nINDENG 172 — University of California, Berkeley, Spring 2025\nINDENG 166 — University of California, Berkeley, Spring 2026"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Thibaut Mastrolia, Haoze Yan. Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats. arXiv:2505.08989, 2025. [arXiv] [PDF]"
+  },
+  {
+    "objectID": "publications.html#preprint",
+    "href": "publications.html#preprint",
+    "title": "Publications",
+    "section": "",
+    "text": "Thibaut Mastrolia, Haoze Yan. Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats. arXiv:2505.08989, 2025. [arXiv] [PDF]"
+  },
+  {
+    "objectID": "publications.html#presentations",
+    "href": "publications.html#presentations",
+    "title": "Publications",
+    "section": "Presentations",
+    "text": "Presentations\n\n“Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats” Berkeley–Columbia Meeting in Engineering and Statistics, University of California, Berkeley, 2025."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Haoze Yan (William)",
+    "section": "",
+    "text": "I am a Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley, advised by Prof. Thibaut Mastrolia. Previously, I received my B.S. with Honors in Mathematics from the University of Texas at Austin in 2023, where I worked under the supervision of Prof. Thaleia Zariphopoulou.\nMy research lies at the intersection of stochastic control, contract theory, and reinforcement learning, with a particular focus on financial and cyber systems involving risk, strategic behavior, and model uncertainty.\n\n\n\n\nBackward stochastic differential equations, including second-order BSDEs\nHawkes processes and self-exciting stochastic systems\nContinous time reinforcement learning\nCyber risk management and resilient cyber systems\n\n\n\n\nPh.D. Candidate\nDepartment of Industrial Engineering and Operaions Research\nUniversity of California, Berkeley\n\n\n\nEmail: [haoze.yan[AT]berkeley[DOT]edu]\nGitHub: https://github.com/williamy9267\nGoogle Scholar: Haoze Yan"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Haoze Yan (William)",
+    "section": "",
+    "text": "I am a Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley, advised by Prof. Thibaut Mastrolia. Previously, I received my B.S. with Honors in Mathematics from the University of Texas at Austin in 2023, where I worked under the supervision of Prof. Thaleia Zariphopoulou.\nMy research lies at the intersection of stochastic control, contract theory, and reinforcement learning, with a particular focus on financial and cyber systems involving risk, strategic behavior, and model uncertainty."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Haoze Yan (William)",
+    "section": "",
+    "text": "Backward stochastic differential equations, including second-order BSDEs\nHawkes processes and self-exciting stochastic systems\nContinous time reinforcement learning\nCyber risk management and resilient cyber systems"
+  },
+  {
+    "objectID": "index.html#current-position",
+    "href": "index.html#current-position",
+    "title": "Haoze Yan (William)",
+    "section": "",
+    "text": "Ph.D. Candidate\nDepartment of Industrial Engineering and Operaions Research\nUniversity of California, Berkeley"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Haoze Yan (William)",
+    "section": "",
+    "text": "Email: [haoze.yan[AT]berkeley[DOT]edu]\nGitHub: https://github.com/williamy9267\nGoogle Scholar: Haoze Yan"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on decision-making under uncertainty, with applications to cyber risk and resilient cyber systems. I study how risks evolve over time, how agents respond to incentives, and how optimal or adaptive decisions can be made when models are complex, partially observed, or uncertain. My work draws on stochastic control, reinforcement learning, point processes, contract theory, and backward stochastic differential equations."
+  },
+  {
+    "objectID": "research.html#research-areas",
+    "href": "research.html#research-areas",
+    "title": "Research",
+    "section": "Research areas",
+    "text": "Research areas\n\nArea 1: Stochastic control for risk, incentives, and resilience\nThis area focuses on model-based approaches to dynamic decision-making under uncertainty. I study controlled stochastic systems arising in cyber and operational risk, including systems with jumps, self-exciting event dynamics, strategic behavior, and prevention effort. My work uses stochastic control, Hamilton-Jacobi-Bellman equations, contract theory, point processes, and BSDE-based methods to characterize optimal policies, risk-sharing mechanisms, and resilience strategies.\n\n\nArea 2: Reinforcement learning for complex stochastic systems\nThis area focuses on adaptive and computational methods for decision-making when system dynamics are unknown, high-dimensional, or difficult to solve analytically. I am interested in reinforcement learning methods for continuous-time stochastic systems, including controlled diffusion and jump processes, partially observed models, and Markovian approximations of non-Markovian dynamics. A central goal is to develop learning-based methods that complement stochastic control theory and enable tractable decision-making in complex risk environments."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current projects",
+    "text": "Current projects\n\nStochastic control of Markovianized Hawkes diffusions\nThis project studies controlled systems whose jump behavior follows Hawkes-type self-exciting dynamics. A central goal is to convert non-Markovian Hawkes dynamics into a finite-dimensional Markov state representation, making it possible to formulate controlled Hawkes-diffusion models and derive the associated dynamic programming equations. I am also interested in approximate solution methods for these control problems, including continuous-time reinforcement learning approaches.\n\n\nPrincipal-agent contracts for risk prevention and optimal switching\nThis project studies a continuous-time principal-agent model in which an agent can exert costly prevention effort to reduce the frequency of random losses. The model includes compound Poisson losses, insurance premia, and a threshold at which the system switches to a first-best benchmark regime. The goal is to characterize optimal contracts and prevention effort using tools from contract theory, stochastic control, and Hamilton-Jacobi-Bellman equations."
+  }
+]

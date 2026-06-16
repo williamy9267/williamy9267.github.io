@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Haoze Yan (William)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      # - href: cv.qmd
+      #   text: CV
+    right:
+      - text: GitHub
+        href: https://github.com/williamy9267
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?hl=en&user=kVu8tmgAAAAJ
+
+  page-footer:
+    left: "© 2026 Haoze Yan"
+    right: "Built with Quarto and GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

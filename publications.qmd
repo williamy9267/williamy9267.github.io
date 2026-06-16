@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+## Preprint
+
+1. Thibaut Mastrolia, **Haoze Yan**.  *Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats.*  arXiv:2505.08989, 2025. [[arXiv](https://arxiv.org/abs/2505.08989)] [[PDF](https://arxiv.org/pdf/2505.08989)]
+
+## Presentations
+
+1. "Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats" Berkeley–Columbia Meeting in Engineering and Statistics, University of California, Berkeley, 2025.
