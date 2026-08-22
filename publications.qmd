@@ -4,8 +4,17 @@ title: "Publications"
 
 ## Preprint
 
-1. Thibaut Mastrolia, **Haoze Yan**.  *Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats.*  arXiv:2505.08989, 2025. [[arXiv](https://arxiv.org/abs/2505.08989)] [[PDF](https://arxiv.org/pdf/2505.08989)]
+- Tomasz R. Bielecki, Thibaut Mastrolia, **Haoze Yan**. [*Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions.*](https://arxiv.org/abs/2608.19151) arXiv:2608.19151, 2026.
+
+- Thibaut Mastrolia, **Haoze Yan**.  [*Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats.*](https://arxiv.org/abs/2505.08989)  arXiv:2505.08989, 2025. Accepted for SICON.
+
 
 ## Presentations
 
-1. "Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats" Berkeley–Columbia Meeting in Engineering and Statistics, University of California, Berkeley, 2025.
+- Workshop `Stochastic control of Hawkes-driven dynamical systems with applications to cyber risk managemen', Banff International Research Station, Banff, Jul. 2026
+
+- Workshop `Stochastic control and reinforcement learning', Centre International de Rencontres Mathematiques, Marseille, Jul. 2026
+
+- XIII Bachelier World Congress of the Bachelier Finance Society, University of Bologna, Bologna, Jun. 2026
+
+- Berkeley–Columbia Meeting in Engineering and Statistics, University of California, Berkeley, Oct. 2025.
