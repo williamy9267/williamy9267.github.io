@@ -33,7 +33,7 @@ systems involving risk, strategic behavior, and model uncertainty.
 
 - Backward stochastic differential equations, including second-order BSDEs
 - Hawkes processes and self-exciting stochastic systems
-- Continous time reinforcement learning
+- Continuous time reinforcement learning
 - Cyber risk management and resilient cyber systems
 
 ## Current position
