@@ -1,8 +1,11 @@
 ---
 title: "Publications"
+toc: false
 ---
 
 ## Preprint
+
+- **Haoze Yan**, Julien Roze, Ved Upadhyay, Unal Tatar, Thibaut Mastrolia. [*When Should a Human Take Back Control? Optimal Delegation under Turbulent AI Risk.*](https://arxiv.org/abs/2609.32083) arxiv:2609.32083, 2026.
 
 - Tomasz R. Bielecki, Thibaut Mastrolia, **Haoze Yan**. [*Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions.*](https://arxiv.org/abs/2608.19151) arXiv:2608.19151, 2026.
 

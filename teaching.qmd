@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+toc: false
 ---
 
 ## Teaching assistant (Graduate Student Instructor)

@@ -8,6 +8,7 @@ h1, h2, h3 {
 
 body {
   font-size: 17px;
+  background-color: #f7f8fa;
 }
 
 .quarto-title-block .quarto-title-banner {
@@ -42,4 +43,58 @@ body {
   .profile-photo {
     width: 180px;
   }
+}
+
+/* ---------- Navbar ---------- */
+
+.navbar {
+  background-color: #263746 !important;
+  border-bottom: 1px solid #1d2a35;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* Website name */
+.navbar-title {
+  color: #ffffff !important;
+  font-weight: 700;
+}
+
+/* Navigation tabs */
+.navbar-nav .nav-link {
+  color: #f1f3f5 !important;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+/* Hover */
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* Current/active page */
+.navbar-nav .nav-link.active {
+  color: #ffffff !important;
+  font-weight: 700;
+  border-bottom: 2px solid #ffffff;
+}
+
+/* Mobile menu button */
+.navbar-toggler {
+  filter: invert(1);
+}
+
+
+/* ---------- Page background ---------- */
+
+body {
+  font-size: 17px;
+  background-color: #f7f8fa;
+}
+
+.navbar {
+  background-color: #263746 !important;
+  border-bottom: 1px solid #1d2a35;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  padding-top: 0.65rem;
+  padding-bottom: 0.65rem;
 }

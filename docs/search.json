@@ -18,14 +18,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Tomasz R. Bielecki, Thibaut Mastrolia, Haoze Yan. Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions. arXiv:2608.19151, 2026.\nThibaut Mastrolia, Haoze Yan. Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats. arXiv:2505.08989, 2025. Accepted for SICON."
+    "text": "Haoze Yan, Julien Roze, Ved Upadhyay, Unal Tatar, Thibaut Mastrolia. When Should a Human Take Back Control? Optimal Delegation under Turbulent AI Risk. arxiv:2609.32083, 2026.\nTomasz R. Bielecki, Thibaut Mastrolia, Haoze Yan. Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions. arXiv:2608.19151, 2026.\nThibaut Mastrolia, Haoze Yan. Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats. arXiv:2505.08989, 2025. Accepted for SICON."
   },
   {
     "objectID": "publications.html#preprint",
     "href": "publications.html#preprint",
     "title": "Publications",
     "section": "",
-    "text": "Tomasz R. Bielecki, Thibaut Mastrolia, Haoze Yan. Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions. arXiv:2608.19151, 2026.\nThibaut Mastrolia, Haoze Yan. Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats. arXiv:2505.08989, 2025. Accepted for SICON."
+    "text": "Haoze Yan, Julien Roze, Ved Upadhyay, Unal Tatar, Thibaut Mastrolia. When Should a Human Take Back Control? Optimal Delegation under Turbulent AI Risk. arxiv:2609.32083, 2026.\nTomasz R. Bielecki, Thibaut Mastrolia, Haoze Yan. Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions. arXiv:2608.19151, 2026.\nThibaut Mastrolia, Haoze Yan. Agency Problems and Adversarial Bilevel Optimization under Uncertainty and Cyber Threats. arXiv:2505.08989, 2025. Accepted for SICON."
   },
   {
     "objectID": "publications.html#presentations",
@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "Haoze Yan (William)",
     "section": "",
-    "text": "I am a Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley, advised by Prof. Thibaut Mastrolia. Previously, I received my B.S. with Honors in Mathematics from the University of Texas at Austin in 2023, where I worked under the supervision of Prof. Thaleia Zariphopoulou.\nMy research lies at the intersection of stochastic control, contract theory, and reinforcement learning, with a particular focus on financial and cyber systems involving risk, strategic behavior, and model uncertainty.\n\n\n\n\nBackward stochastic differential equations, including second-order BSDEs\nHawkes processes and self-exciting stochastic systems\nContinous time reinforcement learning\nCyber risk management and resilient cyber systems\n\n\n\n\nPh.D. Candidate\nDepartment of Industrial Engineering and Operaions Research\nUniversity of California, Berkeley\n\n\n\nEmail: [haoze.yan[AT]berkeley[DOT]edu]\nGitHub: https://github.com/williamy9267\nGoogle Scholar: Haoze Yan"
+    "text": "I am a Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley, advised by Prof. Thibaut Mastrolia.\nPreviously, I received my B.S. with Honors in Mathematics from The University of Texas at Austin in 2023, where I worked under the supervision of Prof. Thaleia Zariphopoulou.\nMy research lies at the intersection of stochastic control, contract theory, and reinforcement learning, with a particular focus on financial, cyber, and AI systems involving risk, strategic behavior, and model uncertainty.\n\n\n\n\nBackward stochastic differential equations, including second-order BSDEs\nHawkes processes and self-exciting stochastic systems\nContinous time reinforcement learning\nCyber risk management and resilient cyber systems\n\n\n\n\nPh.D. Candidate\nDepartment of Industrial Engineering and Operaions Research\nUniversity of California, Berkeley\n\n\n\nEmail: [haoze.yan[AT]berkeley[DOT]edu]\nGitHub: https://github.com/williamy9267\nGoogle Scholar: Haoze Yan"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Haoze Yan (William)",
     "section": "",
-    "text": "I am a Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley, advised by Prof. Thibaut Mastrolia. Previously, I received my B.S. with Honors in Mathematics from the University of Texas at Austin in 2023, where I worked under the supervision of Prof. Thaleia Zariphopoulou.\nMy research lies at the intersection of stochastic control, contract theory, and reinforcement learning, with a particular focus on financial and cyber systems involving risk, strategic behavior, and model uncertainty."
+    "text": "I am a Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley, advised by Prof. Thibaut Mastrolia.\nPreviously, I received my B.S. with Honors in Mathematics from The University of Texas at Austin in 2023, where I worked under the supervision of Prof. Thaleia Zariphopoulou.\nMy research lies at the intersection of stochastic control, contract theory, and reinforcement learning, with a particular focus on financial, cyber, and AI systems involving risk, strategic behavior, and model uncertainty."
   },
   {
     "objectID": "index.html#research-interests",
